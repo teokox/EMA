@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Encryption</br>
 
 <strong>Basically, EMA is a project designed to create a symmetric encryption method, consisting of two fundamental conceptual techniques named Ema_0 and Ema_1. The Ema_0 technique replaces the data value to be encrypted with the key value, Ema_1 instead shuffles them. These encryption and decryption techniques were developed mainly for theoretical, experimental, educational, and research purposes.</strong>
 
-The project aims to develop software called EMA.
+The project aims to develop a Java software called EMA.
 
 The EMA method utilizes a master key comprising of two sub-keys. Ema_0 uses the first half and Ema_1 the second half.
 
