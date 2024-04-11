@@ -3,7 +3,7 @@ Encryption by Masking
 
 <strong>EMA stands for “Encryption by Masking“.</strong>
 
-The website is available at https://www.creoart.com.
+For more information, visit https://www.creoart.com.
 
 For more information on encryption and data masking, see the following links:
 
