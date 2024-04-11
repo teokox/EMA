@@ -1,5 +1,4 @@
-# EMA
-Encryption by Masking
+# EMA Encryption by Masking
 
 <strong>EMA stands for “Encryption by Masking“.</strong>
 
