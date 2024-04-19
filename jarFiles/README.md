@@ -4,8 +4,8 @@ You can download the Ema.jar executable from this page. There are two versions a
 
 The filename format is:
 
-<strong>Ema_st_version_SHA-256Checksum.jar. (static version, not instantiable)</br>
-Ema_ns_version_SHA-256Checksum.jar. (not static version, instantiable)</strong>
+<strong>Ema_version_st_SHA-256Checksum.jar. (static version, not instantiable)</br>
+Ema_version_ns_SHA-256Checksum.jar. (not static version, instantiable)</strong>
 
 Version format:
 
