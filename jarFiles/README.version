@@ -1,1 +1,38 @@
+2024-05-12
 
+Not static version (instantiable)
+Ema_1_24_05_12_1_ns_4f587c3a235cf8df2357f7e3723a479e0a49be6e9338af9287e1d810ada26da9.jar 33KB
+
+Static version (not instantiable)
+Ema_1_24_05_12_1_st_f05761c4c4f964894bcc984e4f0497f0b5a107397d0d7f00a880e37ce29dfe31.jar 32KB
+
+Release change:
+LOG: minor output
+
+########
+
+2024-05-12
+
+Not static version (instantiable)
+Ema_1_24_05_12_0_ns_52ed60dcdc4d664849052f7d559be8aed32af71bde9a33f43d95d4ea08c4ce58.jar 33KB
+
+Static version (not instantiable)
+Ema_1_24_05_12_0_st_93ae6f8d69132ef300515ef102c0f549e583dd8d6f1eff673d7923b9fb62abce.jar 32KB
+
+Release change:
+FIX: commands –help and –loadConfigRunFile didn’t work correctly in stand-alone mode
+
+########
+
+2024-04-18
+
+Not static version (instantiable)
+Ema_1_24_04_18_0_ns_014657d480fd2d8bbf5a1c0d4f907495daeec4bad8d69aea951b79d9462aca35.jar 33KB
+
+Static version (not instantiable)
+Ema_1_24_04_18_0_st_9e8f806957ca415a277401b014125fe47e0bda051f479b2c8ac9cdb30e5938eb.jar 32KB
+
+Release change:
+This is the first version released!
+
+########
