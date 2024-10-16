@@ -50,6 +50,7 @@ EMA pros:
 - very fast encryption/decryption</br>
 - unbreakable encryption</br>
 - very long keys do not affect computer performance</br>
+- like other symmetric encryption, it cannot be broken even by quantum computers</br>
 
 EMA cons:
 
